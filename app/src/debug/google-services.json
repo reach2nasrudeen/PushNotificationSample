@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138583819458",
+    "project_id": "chatlikewhatsapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138583819458:android:7d31dc21f8ada6f5",
+        "android_client_info": {
+          "package_name": "com.app.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138583819458-ugd23olhqpa58fpo83mf6r746dthcll9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR4irRZtHw1fA75AVC1roNIf3I3LNhcrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
